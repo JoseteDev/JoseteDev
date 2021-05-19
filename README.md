@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jose Perez
+
+🔭 I’m currently working on [BotXO]() as Junior DevOps/QA Engineer.
+
 <!--
 **JoseteDev/JoseteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=JoseteDev&theme=tokionight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
