@@ -1,23 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm Jose Perez
 
-🔭 I’m currently working on [BotXO](https://www.botxo.ai/) as Junior DevOps/QA Engineer.
+📚  Computer Engineer at [Universidad Rey Juan Carlos](https://www.urjc.es/)
+👨🏼‍💻  Currently working on [BotXO](https://www.botxo.ai/) as Junior DevOps/QA Engineer
 
-<!--
-**JoseteDev/JoseteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: Jose Perez](https://img.shields.io/badge/-JosePerez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-perez-ocampos-535570148/)](https://www.linkedin.com/in/jose-perez-ocampos-535570148/)
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=JoseteDev&theme=tokionight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=JoseteDev&theme=tokionight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
